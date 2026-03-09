@@ -1,0 +1,128 @@
+Time: 0
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 1
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 2
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 3
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 4
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 5
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 6
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 7
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 8
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 9
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 10
+Waiting tasks: [(ID=2, arrivalTime=11, serviceTime=4), (ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 11
+Waiting tasks: [(ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=2, arrivalTime=11, serviceTime=4) []
+Queue 2: processing: null []
+Time: 12
+Waiting tasks: [(ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=2, arrivalTime=11, serviceTime=3) []
+Queue 2: processing: null []
+Time: 13
+Waiting tasks: [(ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=2, arrivalTime=11, serviceTime=2) []
+Queue 2: processing: null []
+Time: 14
+Waiting tasks: [(ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=2, arrivalTime=11, serviceTime=1) []
+Queue 2: processing: null []
+Time: 15
+Waiting tasks: [(ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 16
+Waiting tasks: [(ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 17
+Waiting tasks: [(ID=3, arrivalTime=18, serviceTime=4), (ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 18
+Waiting tasks: [(ID=1, arrivalTime=19, serviceTime=4), (ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=3, arrivalTime=18, serviceTime=4) []
+Queue 2: processing: null []
+Time: 19
+Waiting tasks: [(ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=3, arrivalTime=18, serviceTime=3) []
+Queue 2: processing: (ID=1, arrivalTime=19, serviceTime=4) []
+Time: 20
+Waiting tasks: [(ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=3, arrivalTime=18, serviceTime=2) []
+Queue 2: processing: (ID=1, arrivalTime=19, serviceTime=3) []
+Time: 21
+Waiting tasks: [(ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: (ID=3, arrivalTime=18, serviceTime=1) []
+Queue 2: processing: (ID=1, arrivalTime=19, serviceTime=2) []
+Time: 22
+Waiting tasks: [(ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: (ID=1, arrivalTime=19, serviceTime=1) []
+Time: 23
+Waiting tasks: [(ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 24
+Waiting tasks: [(ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 25
+Waiting tasks: [(ID=4, arrivalTime=26, serviceTime=4)]
+Queue 1: processing: null []
+Queue 2: processing: null []
+Time: 26
+Waiting tasks: []
+Queue 1: processing: (ID=4, arrivalTime=26, serviceTime=4) []
+Queue 2: processing: null []
+Time: 27
+Waiting tasks: []
+Queue 1: processing: (ID=4, arrivalTime=26, serviceTime=3) []
+Queue 2: processing: null []
+Time: 28
+Waiting tasks: []
+Queue 1: processing: (ID=4, arrivalTime=26, serviceTime=2) []
+Queue 2: processing: null []
+Time: 29
+Waiting tasks: []
+Queue 1: processing: (ID=4, arrivalTime=26, serviceTime=1) []
+Queue 2: processing: null []
+
+ *SIMULATION COMPLETE*
+Total clients: 4
+Queues: 2
+Simulation time: 60
+Average waiting time: 0.00
+Average service time: 4.00
+Peak hour: 19 sec
